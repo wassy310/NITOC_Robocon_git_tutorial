@@ -1,7 +1,7 @@
-# **git_tutorial**
+# **git_tutorial1**
 最初に知っておいたほうが良いかもしれないことを説明してるので、「もう知ってる！」という方は読み飛ばしてください  
 Qiitaで書けよってくらい長いです  
-GitHubアカウント作成済の方は、README2.mdから行ってください
+GitHubアカウント作成済の方は、[README2.md](https://github.com/wassy310/NITOC_Robocon_git_tutorial/blob/master/README2.md)から行ってください
 
 ## **そもそもGitとは何か、なぜ使うのか**
 Gitとは「バージョン管理を行うシステム」のこと  
@@ -62,5 +62,5 @@ GitHubのアカウントをつくります。
 1. メール認証があるので、先ほど入力したメールアドレスに届いたメール通りに進めます
 1. これでアカウント作成は終了
 
-キリが良いので、次のファイルに移ります。  
+キリが良いので、[次のファイル](https://github.com/wassy310/NITOC_Robocon_git_tutorial/blob/master/README2.md)に移ります。  
 次からは、実際にリポジトリを作ってGitHubにアップロードまでします。
