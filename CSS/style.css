@@ -1,0 +1,9 @@
+h1{
+    color: white;
+    background: #0093d0;
+    text-align: center;
+}
+h2{
+    border-left: solid 5px #0093d0;
+    padding-left: 10px;
+}
