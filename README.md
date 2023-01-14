@@ -1,4 +1,9 @@
 # **git_tutorial1**
+
+2023.01.15 追記  
+とてもわかりやすい記事を見つけたので、こちらを見たほうが早いです(本末転倒)  
+[【初心者にやさしい】イメージで理解する『git コマンド』](https://qiita.com/technoship0329/items/2f4a5ba56d649d61bd58)
+
 最初に知っておいたほうが良いかもしれないことを説明してるので、「もう知ってる！」という方は読み飛ばしてください  
 Qiitaで書けよってくらい長いです  
 GitHubアカウント作成済の方は、[README2.md](https://github.com/wassy310/NITOC_Robocon_git_tutorial/blob/master/README2.md)から行ってください
